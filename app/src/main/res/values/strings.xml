@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">firestore</string>
+    <string name="enter_title">Enter Title\n</string>
+    <string name="enter_thoughts">Enter Thougts</string>
+    <string name="save_btn">Save</string>
+    <string name="enter_titl1">Title\n</string>
+    <string name="enter_titl">enter\n</string>
+    <string name="rec_btn">Show data\n</string>
+</resources>
